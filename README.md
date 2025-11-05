@@ -148,6 +148,3 @@ Feedstock Maintainers
 * [@jacquelynsmale](https://github.com/jacquelynsmale/)
 * [@williamh890](https://github.com/williamh890/)
 
-
-<!-- dummy commit to enable rerendering -->
-

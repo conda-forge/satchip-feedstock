@@ -1,5 +1,5 @@
 {% set name = "satchip" %}
-{% set version = "0.6.0" %}
+{% set version = "0.6.1" %}
 {% set python_min = "3.11" %}
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/satchip-{{ version }}.tar.gz
-  sha256: 4e09d677f413ca58ce1769f040ccc34f64f9362e45f753683d731e19f9246048
+  sha256: f9f428444ee2dec6bab838427d37f0dcbec61677866931d4268c64b20b8d88ec
 
 build:
   entry_points:
